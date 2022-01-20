@@ -53,13 +53,13 @@ python2 sh2k9.py
 
 ## ***Follow Me***
 
-* Youtube : [Subscribe Now](https://www.youtube.com/Shanto Tach Bd)
-* Page : [Follow Us](https://www.facebook.com/profile.php?id=100069894818463)
-* Group : [Join Us](https://facebook.com/groups/407434110583145/)
-* Telegram : [Join Now](https://t.me/Shanto117k)
-* Facebook  : [Follow Me](https://www.facebook.com/Shanto.vau404)
-* Twitter : [Follow Me](https://www.twitter.com/***)
-* GitHub : [Follow Me](https://github.com/Dark-Cyber-07/BD-06)
+* Youtube : [Subscribe Now](https://youtube.com/channel/UCfxn7eRMAT_luYk0_sld-aA)
+* Page : 
+* Group : [Join Us](https://facebook.com/groups/1175388446323389/)
+* Telegram : [Join Now]()
+* Facebook  : [Follow Me](https://www.facebook.com/nobeta.nobi.suke.33886305)
+* Twitter : [Follow Me]
+* GitHub : [Follow Me](https://github.com/NOBITA2023/NOBITA.Py.git)
 
 ### Warning
 
