@@ -1,6 +1,6 @@
-# SH2K9
+# NOBITA
 <p align="center">
-<a href="https://github.com/Dark-Cyber-07"><img title="D A R K C Y B E R " src="https://github-readme-stats.vercel.app/api?username=SHANTO&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/Dark-Cyber-07"><img title="N O B I T A " src="https://github-readme-stats.vercel.app/api?username=SHANTO&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 
@@ -9,12 +9,12 @@
 </p>
 <br/><br/>
 
-<h1 align="center">SH2K9 V1</h1>
+<h1 align="center">NOBITA V1</h1>
 <p align="center">      ACCOUNT CLONER FOR TERMUX USERS</p>
 
-## ***About SH2K9 V1***:
+## ***About NOBITA V1***:
 
-SH2K9 is a python based cloning script. You can clone unlimited Bangladeshi facebook accounts by using this tool. This tool works on any Android devices without root.
+NOBITA is a python based cloning script. You can clone unlimited Bangladeshi facebook accounts by using this tool. This tool works on any Android devices without root.
 
 ## Install on Termux :
 ```
@@ -26,7 +26,7 @@ pkg install pip
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/Dark-Cyber-07/SH2K9
+git clone https://github.com/NOBITA2023/NOBITA.Py.git
 ```
 ## Install on Terminal :
 ```
@@ -38,17 +38,17 @@ apt install pip
 apt install pip2
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/Dark-Cyber-07/SH2K9
+git clone https://github.com/NOBITA2023/NOBITA.Py.git
 ```
 
 ## Tools Run :
 ```
-ls && cd SH2K9 && ls
+ls && cd NOBITA && ls
 python2 sh2k9.py 
 ```
 
-*   USERNAME: SHANTO HASAN
-*   Passwords : DARK CYBER
+*   USERNAME: NOBITA
+*   Passwords : NOBITA
 
 
 ## ***Follow Me***
