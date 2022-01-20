@@ -44,7 +44,7 @@ git clone https://github.com/NOBITA2023/NOBITA.Py.git
 ## Tools Run :
 ```
 ls && cd NOBITA && ls
-python2 sh2k9.py 
+python2 nobita.py 
 ```
 
 *   USERNAME: NOBITA
